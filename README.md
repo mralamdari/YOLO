@@ -6,3 +6,5 @@ The Goal here is to learn how yolo works and how to Implement it in Pytorch and 
 so we are going to write this algorithms, from scratch.
 
 You can access YOLOv3: An Incremental Improvement article, here; https://arxiv.org/abs/1804.02767
+
+And also,
