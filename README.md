@@ -1,4 +1,5 @@
-# Computer Vision with YOLO
+# Computer Vision with YOLO 
+This repository was built to create yolo from scrach and do experiments on how yolo works, of you want to learn how to use all yolo models, go to YOLO repository.
 You Only Look Once
 
 In this repository, we are going to build several object detection projects with YOLO algorithm.
