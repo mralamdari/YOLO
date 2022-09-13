@@ -8,4 +8,4 @@ so we are going to write this algorithms, from scratch.
 
 You can access YOLOv3: An Incremental Improvement article, here; https://arxiv.org/abs/1804.02767
 
-And also, you can learn about in this awsome website; https://pylessons.com/YOLOv3-introduction
+And also, you can learn about in this awesome website; https://pylessons.com/YOLOv3-introduction
