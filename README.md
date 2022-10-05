@@ -5,7 +5,7 @@ You Only Look Once
 #### You can access YOLO V1 paper: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 You can access YOLO V2(YOLO9000) paper: [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)
 You can access YOLO V3 paper: [An Incremental Improvement](https://arxiv.org/abs/1804.02767)
-You can access YOLO V4
+You can access YOLO V4 paper: 
 
 
 And In this Repository, you will learn how to Implement and use each yolo algorithm.
