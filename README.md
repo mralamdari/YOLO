@@ -10,7 +10,7 @@ You Only Look Once
 
 And In this Repository, you will learn how to Implement and use each yolo algorithm.
 
-Each step has 
+Each step has been 
 
 You can Learn more about Yolo V2 from my Yolo V2 in Use Article;
 
