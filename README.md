@@ -16,6 +16,6 @@ You can Learn more about Yolo V2 from my "Yolo V2 in Use" Article;
 
 ###  [Yolo V2 in Use](https://medium.com/@mralamdari/yolo-v2-in-use-684c71482880)
 
-You can Learn more about Yolo V3 from my Yolo V3 in Use Article;
+You can Learn more about Yolo V3 from my "Yolo V3 in Use Article;
 
 ###  [Yolo V3 in Use](https://medium.com/@mralamdari/yolo-v3-in-use-e53bd96348a9)
