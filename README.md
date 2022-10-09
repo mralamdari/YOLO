@@ -12,7 +12,7 @@ And In this Repository, you will learn how to Implement and use each yolo algori
 
 Each Notebook has been explained thoroughly in the articles bellow;
 
-You can Learn more about Yolo V2 from my Yolo V2 in Use Article;
+You can Learn more about Yolo V2 from my "Yolo V2 in Use Article;
 
 ###  [Yolo V2 in Use](https://medium.com/@mralamdari/yolo-v2-in-use-684c71482880)
 
