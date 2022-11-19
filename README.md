@@ -1,5 +1,5 @@
 # Computer Vision with YOLO 
-This repository was built to  yolo from scrach and do experiments on how yolo works.
+This repository was built to implement yolo from scrach and do experiments on how yolo works.
 You Only Look Once
 
 #### You can access YOLO V1 paper: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
