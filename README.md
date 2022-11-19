@@ -8,7 +8,7 @@ You Only Look Once
 #### You can access YOLO V4 paper: [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://arxiv.org/abs/2004.10934)
 
 
-And In this Repository, you will learn how to Implement and use each yolo algorithm.
+And In this Repository, you will learn how to Implement and use each Yolo algorithm.
 
 Each Notebook has been explained thoroughly in the articles bellow;
 
