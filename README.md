@@ -7,7 +7,7 @@ You Only Look Once
 
 
 
-######New Yolo Model is comming up
+#### New Yolo Model is comming up
 
 
 #### You can access YOLO V1 paper: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
